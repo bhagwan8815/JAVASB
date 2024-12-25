@@ -1,2 +1,2 @@
 # JAVASB
-JAVA SB Basics code here
+JAVA Spring Boot Basics code here
